@@ -1,9 +1,6 @@
 ---
 title: "About"
+about:
+  template: trestles
+  image: DSC08829.jpeg
 ---
-
-About this site
-
-```{r}
-1 + 1
-```
